@@ -1,0 +1,5 @@
+﻿insert into Dept (DeptID,Name) values (1,'IT')
+insert into Dept (DeptID,Name) values (2,'Computer')
+insert into Dept (DeptID,Name) values (3,'Civil')
+insert into Dept (DeptID,Name) values (4,'Mech')
+insert into Dept (DeptID,Name) values (5,'HR')
